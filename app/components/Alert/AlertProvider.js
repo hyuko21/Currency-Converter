@@ -29,6 +29,7 @@ class AlertProvider extends Component {
           ref={(ref) => {
             this.dropdown = ref;
           }}
+          translucent
         />
       </View>
     );
